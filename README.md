@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 🤘 , I'm Gerardo Torres</h1>
 
-<!--
-**GerardoTorres091/GerardoTorres091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a full stack jr developer.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **full stack development with Microsoft Innovacción Virtual team, , and Data Science / AI at DEV.F.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **torresgerardo091@gmail.com**
+
+- My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.
+
+```php
+ public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Vuejs::class,
+            Angular::class,
+            Laravel::class,
+            BootstrapCss::class,
+            Java::class,
+            Aws::class,
+        ];
+    }
+```
