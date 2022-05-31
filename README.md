@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **torresgerardo091@gmail.com**
 
-- My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP.
+- My main programming languages/platforms are: Javascript, PHP, Java.
 
 ```php
  public function getDailyKnowledge(): array
