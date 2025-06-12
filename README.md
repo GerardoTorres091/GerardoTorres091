@@ -1,30 +1,29 @@
-<h1 align="center">Hi 🤘 , I'm Gerardo Torres</h1>
+<h1 align="center">Hola, soy Gerardo Torres</h1>
 
-- I am a full stack developer.
+<p align="center">
+  Desarrollador Full Stack con experiencia en soluciones robustas para backend y frontend.
+</p>
 
-- 📫 How to reach me **torresgerardo091@gmail.com**
+---
 
-- My main programming languages/platforms are: Javascript, PHP, Java.
+### Sobre mí
 
-```php
- public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Laravel::class,
-            Javascript::class,
-            PHPunit::class,
-            Vuejs::class,
-            Angular::class,
-            BootstrapCss::class,
-            CypressJs::class,
-            PostgreSQL::class,
-            Mysql::class,
-            Java::class,
-            intermediate => [
-              Spring Boot,
-              JPA, 
-            ]
-        ];
+- Más de 5 años de experiencia en desarrollo web full stack.
+- Me especializo en Java con Spring Boot, PHP con Slim/Laravel, y Vue.js.
+- Apasionado por la arquitectura limpia, pruebas automatizadas y buenas prácticas.
+
+---
+
+### Stack tecnológico actual
+
+```java
+public class DailyStack {
+    public static List<String> getDailyKnowledge() {
+        return Arrays.asList(
+            "Java", "Spring Boot", "JPA", "JUnit", "PHP", "Laravel", "Slim",
+            "JavaScript", "Vue.js", "Angular", "Cypress.js",
+            "PostgreSQL", "MySQL", "Docker", "Git", "AWS (EC2, S3)"
+        );
     }
+}
 ```
